@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Tiwari</h1>
 <h3 align="center">Fullstack Developer!</h3>
-<img align = "right alt = "coding" width = "400" src = "https://giphy.com/embed/mYhd1NHQkHmZLiqN7M">
+<img align = "right alt = "coding" width = "400" src = "https://media.giphy.com/media/mYhd1NHQkHmZLiqN7M/giphy.gif">
 
 - 🔭 I’m currently working on ReactJS and Django
 
