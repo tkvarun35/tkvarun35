@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Tiwari</h1>
 <h3 align="center">Fullstack Developer!</h3>
-<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/mYhd1NHQkHmZLiqN7M" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sleepinggiant-deal-with-it-sgm-sleeping-giant-media-mYhd1NHQkHmZLiqN7M">via GIPHY</a></p>
+<img align = "right alt = "coding" width = "400" src = "https://giphy.com/embed/mYhd1NHQkHmZLiqN7M">
 
 - 🔭 I’m currently working on ReactJS and Django
 
