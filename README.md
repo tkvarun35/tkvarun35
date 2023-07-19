@@ -8,6 +8,11 @@
 
 - ⚡ Fun fact | Linux >>>> 🙂
 
+Here is a bit more detailed graph showing my open source contributions in the past year:
+
+![GitHub stats](https://raw.githubusercontent.com/tkvarun35/tkvarun35/master/profile-3d-contrib/profile-night-green.svg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/varun-kumar-tiwari-246981204/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="varun-kumar-tiwari-246981204" height="30" width="30" /></a>
