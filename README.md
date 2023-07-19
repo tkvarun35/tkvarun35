@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact | Linux >>>> 🙂
 
-Here is a bit more detailed graph showing my open source contributions in the past year:
+Here is a bit more detailed graph showing my contributions in the past year:
 
 ![GitHub stats](https://raw.githubusercontent.com/tkvarun35/tkvarun35/master/profile-3d-contrib/profile-night-green.svg)
 
