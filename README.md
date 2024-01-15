@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on ReactJS and Django
 
 - 📫 How to reach me tkvarun35@gmail.com
+  
+- 🗿Visit my Portfolio: <a href="https://tkvarun35.vercel.app/" target="_blank" > tkvarun35.vercel.app </a>
 
 - ⚡ Fun fact | Linux >>>> 🙂
 
@@ -23,6 +25,7 @@ Here is a bit more detailed graph showing my contributions in the past year:
    Profile Visits <br/> <br/>
   <img src="https://profile-counter.glitch.me/%7Btkvarun35%7D/count.svg" />
 </p>
+
    
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python" width="80" height="40"/> </a> <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> <img src="https://angularjs.org/img/angularjs-for-header-only.svg" alt="AngularJS" width="80" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="mysql" width="50" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://react.dev/favicon.ico" alt="REACT" width="40" height="40"/> </a> </p>
