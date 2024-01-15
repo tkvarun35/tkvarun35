@@ -7,7 +7,7 @@
 
 - 📫 How to reach me tkvarun35@gmail.com
   
-- 🗿Visit my Portfolio: <a href="https://tkvarun35.vercel.app/" target="_blank" > tkvarun35.vercel.app </a>
+- 🗿Visit my Portfolio: <a href="https://tkvarun35.vercel.app/" target="_blank" rel="noreferrer"> tkvarun35.vercel.app </a>
 
 - ⚡ Fun fact | Linux >>>> 🙂
 
