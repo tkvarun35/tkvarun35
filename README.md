@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Tiwari</h1>
 <h3 align="center">Fullstack Developer!</h3>
+<p align='center'>
 <img align = "right alt = "coding" width = "400" src = "https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47kywzev2elyxu9y3pdkqo5uae9rd06pt2gfuw4s3u&rid=giphy.gif&ct=g">
-
+</p>
 - 🔭 I’m currently working on ReactJS and Django
 
 - 📫 How to reach me tkvarun35@gmail.com
@@ -17,6 +18,10 @@ Here is a bit more detailed graph showing my contributions in the past year:
 <p align="left">
 <a href="https://www.linkedin.com/in/varun-kumar-tiwari-246981204/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="varun-kumar-tiwari-246981204" height="30" width="30" /></a>
 <a href="https://www.instagram.com/varun.tiiwari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".varun.tiiwari" height="30" width="40" /></a>
+</p>
+<p align="center">
+   Profile Visits <br/> <br/>
+  <img src="https://profile-counter.glitch.me/%7Btkvarun35%7D/count.svg" />
 </p>
    
  <h3 align="left">Languages and Tools:</h3>
